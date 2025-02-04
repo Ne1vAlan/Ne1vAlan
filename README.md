@@ -6,7 +6,11 @@ Goals: want to study Javascript in the future,
 Create a website about me probably.
 
 I know languages at the university level:
+
 -Python
+
 -C++
+
 -a bit of Html and CSS
+
 
