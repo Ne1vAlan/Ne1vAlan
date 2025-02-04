@@ -5,7 +5,9 @@ First Year Of Kazakh-British Technical University
 ## Goals: 
 want to study Javascript in the future,
 
-Create a website about me probably.
+Create a website about me probably,
+
+Become A FrontEnd Developer
 
 
 ## I know languages at the university level:
