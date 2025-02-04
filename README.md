@@ -2,10 +2,13 @@
 
 First Year Of Kazakh-British Technical University
 
-Goals: want to study Javascript in the future,
+## Goals: 
+want to study Javascript in the future,
+
 Create a website about me probably.
 
-I know languages at the university level:
+
+## I know languages at the university level:
 
 -Python
 
