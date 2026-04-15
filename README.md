@@ -4,6 +4,8 @@ First Year Of Kazakh-British Technical University
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne1vAlan&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne1vAlan&layout=compact&theme=radical)
+
 ## Goals: 
 want to study Javascript in the future,
 
