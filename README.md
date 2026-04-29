@@ -6,14 +6,6 @@ Second Year Of Kazakh-British Technical University
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne1vAlan&layout=compact&theme=radical)
 
-## Goals: 
-want to study Javascript in the future,
-
-Create a website about me probably,
-
-Become A FrontEnd Developer
-
-
 ### Skills & Tools
 
 <p>
@@ -22,7 +14,6 @@ Become A FrontEnd Developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" />
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" />
 </p>
