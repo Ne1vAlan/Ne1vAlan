@@ -1,4 +1,4 @@
-## 𝐀𝐥𝐚𝐧 𝐀𝐢𝐦𝐮𝐫𝐳𝐚𝐲𝐞𝐯 
+<img width="514" height="97" alt="image" src="https://github.com/user-attachments/assets/952af87c-55fb-4633-b940-a227c6449f9e" />## 𝐀𝐥𝐚𝐧 𝐀𝐢𝐦𝐮𝐫𝐳𝐚𝐲𝐞𝐯 
 
 Second Year Of Kazakh-British Technical University
 
@@ -14,12 +14,17 @@ Create a website about me probably,
 Become A FrontEnd Developer
 
 
-## I know languages at the university level:
+### Skills & Tools
 
--Python
-
--C++
-
--a bit of Html and CSS
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="32" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32" />
+</p>
 
 
