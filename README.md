@@ -1,4 +1,4 @@
-<img width="514" height="97" alt="image" src="https://github.com/user-attachments/assets/952af87c-55fb-4633-b940-a227c6449f9e" />## 𝐀𝐥𝐚𝐧 𝐀𝐢𝐦𝐮𝐫𝐳𝐚𝐲𝐞𝐯 
+## 𝐀𝐥𝐚𝐧 𝐀𝐢𝐦𝐮𝐫𝐳𝐚𝐲𝐞𝐯 
 
 Second Year Of Kazakh-British Technical University
 
