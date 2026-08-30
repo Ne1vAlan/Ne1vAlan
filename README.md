@@ -1,10 +1,6 @@
 # 𝐀𝐥𝐚𝐧 𝐀𝐢𝐦𝐮𝐫𝐳𝐚𝐲𝐞𝐯 
 
-## Second Year Of Kazakh-British Technical University
-
-| GitHub Stats | Top Languages |
-|-------------|--------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ne1vAlan&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ne1vAlan&layout=compact&theme=radical) |
+## Third Year Of Kazakh-British Technical University
 
 
 ### Skills & Tools
